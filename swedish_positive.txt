@@ -1,0 +1,240 @@
+ # @author Olof Mogren
+ #
+ # email: olof@mogren.one
+ #
+ # List of positive sentiment words in Swedish.
+ #
+ # Released under the GNU GPL.
+ # 
+ # This program is free software: you can redistribute it and/or modify
+ # it under the terms of the GNU General Public License as published by
+ # the Free Software Foundation, either version 3 of the License, or
+ # (at your option) any later version.
+ #
+ # This program is distributed in the hope that it will be useful,
+ # but WITHOUT ANY WARRANTY; without even the implied warranty of
+ # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ # GNU General Public License for more details.
+ #
+ # You should have received a copy of the GNU General Public License
+ # along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+klok
+lust
+lojal
+ärlig
+succé
+lycka
+seger
+vinna
+vishet
+godhet
+ödmjuk
+utsökt
+tillit
+triumf
+härlig
+kompis
+vacker
+kärlek
+fröjdas
+sinnrik
+trofast
+festlig
+charmig
+paradis
+passion
+suverän
+rättvis
+välfärd
+respekt
+hjärtlig
+älskvärd
+njutning
+skicklig
+underbar
+
+acceptans
+beundra
+tillbedjan
+tillgivenhet
+häpnad
+nöjen
+förvänta
+försäkra
+attraktion
+attrahera
+lugna
+bry
+glad
+närhet
+medkänsla
+belåtenhet
+besegra
+glad
+lust
+ivriga
+lättsam
+extas
+extatisk
+upprymdhet
+förtrollad
+njutning
+hänförd
+trollbundit
+entusiasm
+eufori
+exciterade
+utåtriktad
+översvallande
+fascinerad
+förkärlek
+generös
+lycka
+glad
+betuttad
+intresserade
+jovialitet
+jubla
+glädje
+angelägen
+snäll
+vänligt
+avslappnad
+liknande
+tycke
+kärlek
+lust
+blygsamhet
+nirvana
+öppet
+optimism
+passionen
+fredlig
+nöjd
+stolthet
+kvicktänkt
+lättnad
+lättad
+tillfredsställelse
+tillfreds
+tillfredsställd
+väckte
+självsäker
+lugn
+trollbunden
+inlämning
+sympati
+ömhet
+lugn
+triumf
+lita
+tillit
+livlig
+undrar
+iver
+älska
+gilla
+tycka om
+tycker om
+
+öka
+ökar
+ökat
+ökning
+rekord
+vinst
+segra
+seger
+
+ny
+nya
+
+förtrolig
+förtroende
+säker
+topp
+toppnivå
+
+skitglad
+jätteglad
+positiv
+jättepositiv
+munter
+
+god
+fin
+finfin
+prima
+fräsch
+cool
+schysst
+just
+läcker
+vass
+utmärkt
+förträfflig
+lysande
+fantastisk
+förstklassig
+duktig
+strong
+skicklig
+nyttig
+gynnsam
+okej
+reko
+hedervärd
+hederlig 
+
+frisk
+återställd
+kry
+sund 
+
+ansenlig
+
+gött
+
+digga
+gilla
+
+superb
+
+förstklassig
+ypperlig
+utmärkt
+storartad
+magnifik
+förnämlig
+förträfflig
+utomordentlig
+briljant
+suverän
+härlig
+delikat
+prima
+praktfull
+syperb
+utsökt
+
+glänsande
+mästerlig
+strålande
+framstående
+glans
+överlägsen
+
+bättre
+starkare
+övermäktig
+obetvingad
+dominerande
+oemotståndlig
+enastående
+storartad
+suverän
+utmärkt
+mycket bra
+viktig
+

@@ -1,0 +1,206 @@
+ # @author Olof Mogren
+ #
+ # email: olof@mogren.one
+ #
+ # List of negative sentiment words in Swedish.
+ #
+ # Released under the GNU GPL.
+ #
+ # This program is free software: you can redistribute it and/or modify
+ # it under the terms of the GNU General Public License as published by
+ # the Free Software Foundation, either version 3 of the License, or
+ # (at your option) any later version.
+ #
+ # This program is distributed in the hope that it will be useful,
+ # but WITHOUT ANY WARRANTY; without even the implied warranty of
+ # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ # GNU General Public License for more details.
+ #
+ # You should have received a copy of the GNU General Public License
+ # along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+lögn
+lida
+sorg
+sorglig
+mord
+död
+dödsdömd
+krig
+tumör
+misär
+satan
+falsk
+brott
+sadist
+tyrann
+utrota
+djävul
+ondska
+tortyr
+fiende
+elände
+skräck
+rasism
+cancer
+förtala
+avrätta
+förgöra
+blodbad
+utplåna
+helvete
+amputera
+massmord
+diktator
+massaker
+missfall
+förtryck
+förstöra
+problem
+minska
+minskning
+fall
+föll
+fallit
+ner
+neråt
+ned
+nedåt
+osäker
+botten
+bottennivå
+rasa
+låg
+jättelåg
+inkorrekt
+ledsen
+förkrossad
+arg
+ilsken
+upprörd
+upprörande
+skitarg
+jättearg
+förbannad
+hata
+ogilla
+
+oduglig
+svag
+taskig
+skröplig
+knagglig
+knackig
+risig
+kryckig
+dassig
+usel
+underhaltig
+underkänd
+mindervärdig
+förkastlig
+oschysst
+klandervärd
+pjåkig
+omoralisk
+osund
+osedlig
+karaktärslös
+ogynnsam
+olämplig
+opassande
+ofördelaktig
+menlig 
+sjuk
+illamående
+eländig
+opasslig
+sjuklig
+krasslig
+vissen
+
+
+keff
+undermålig
+skral
+skruttig
+illa
+
+tycka illa om
+klandra
+fördöma
+rata
+misstycka
+missnöjd
+avslå
+avslag
+ogiltig
+ogiltigförklara
+upphäva
+underkänna
+förkasta
+kassera
+
+nej
+förkasta
+avvisa
+tillbakavisa
+avböja
+refusera
+neka
+avstyrka
+ogilla
+spola
+nobba
+slå tillbaka
+
+vraka
+
+
+värdelös
+
+oanvändbar
+defekt
+oduglig
+kass
+dålig
+tråkig
+usel
+onyttig
+
+snorkig
+nonchalant
+arrogant
+stroppig
+underlägsen
+undergiven
+
+högfärdig
+högdragen
+högmodig
+mallig
+
+sämre
+svagare
+lägre
+mindervärdig
+ringare
+underordnad
+
+värre
+uslare
+försvagad
+förvärrad
+skralare
+sekunda
+enklare
+
+as
+djävla
+draåthelvete
+dra åt helvete
+fittig
+ge fan i
+jäkla
+jävla
